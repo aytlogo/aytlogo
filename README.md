@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=7E22CE&center=true&vCenter=true&width=500&lines=🐺+Yalnız+Kurt;🖌️+Photoshop+Sanatçısı;💻+Kod+Avcısı;🌙+Gece+Yolcusu" alt="Typing SVG" />
-</div>
 
-###
 
 <div align="center">
   <img height="180" src="https://i.pinimg.com/originals/8b/02/40/8b02409f975c98c5e8f3f9b30a0c531d.gif" alt="wolf" />
