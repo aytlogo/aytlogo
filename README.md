@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <h3>🛠️ Kullandığım Araçlar</h3>
+  <h3>Kullandığım Araçlar</h3>
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,xd" height="40" alt="design tools" />
   <br>
   <img src="https://skillicons.dev/icons?i=py,js,html,css,php,bash" height="40" alt="programming languages" />
